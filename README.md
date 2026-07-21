@@ -3,7 +3,6 @@
 ### Final Year CSE Student | Building Full-Stack Applications with the MERN Stack
 
 - 📬 **How to reach me:** [debojyotibain@gmail.com](mailto:debojyotibain@gmail.com)
-- 💼 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/debojyoti-bain) | [CodeChef](https://www.codechef.com/users/debojyoti_bain)
 
 ---
 
