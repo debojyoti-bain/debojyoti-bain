@@ -29,4 +29,4 @@
 
 ### 📈 GitHub Activity
 
-[![Debojyoti's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=debojyoti-bain&theme=react-dark)](https://github.com/ashutoshgawr/github-readme-activity-graph)
+[![Debojyoti's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=debojyoti-bain&theme=react-dark&custom_title=GitHub%20Activity)](https://github.com/ashutoshgawr/github-readme-activity-graph)
