@@ -29,4 +29,6 @@
 
 ### 📈 GitHub Activity
 
-[![Debojyoti's GitHub Streak](https://streak-stats.demolab.com?user=debojyoti-bain&theme=react&hide_border=true)](https://git.io/streak-stats)
+<!--- [![Debojyoti's GitHub Streak](https://streak-stats.demolab.com?user=debojyoti-bain&theme=react&hide_border=true)](https://git.io/streak-stats) --->
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=debojyoti-bain&theme=react&hide_border=true&layout=compact&v=2)](https://github.com/anuraghazra/github-readme-stats)
