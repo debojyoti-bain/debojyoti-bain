@@ -29,4 +29,4 @@
 
 ### 📈 GitHub Activity
 
-[![Debojyoti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=debojyoti-bain&theme=react&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Debojyoti's GitHub Streak](https://streak-stats.demolab.com?user=debojyoti-bain&theme=react&hide_border=true)](https://git.io/streak-stats)
